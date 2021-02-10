@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property>
+      <Property Name="DisplayName">Default Domain Policy</Property>
+      <Property Name="GUID">{31B2F340-016D-11D2-945F-00C04FB984F9}</Property>
+      <Property Name="whenCreated">8/10/2020 8:36:40 PM</Property>
+      <Property Name="whenChanged">8/10/2020 8:44:37 PM</Property>
+      <Property Name="DistinguishedName">CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=LAB,DC=local</Property>
+      <Property Name="FilePath">\\LAB.local\sysvol\LAB.local\Policies\{31B2F340-016D-11D2-945F-00C04FB984F9}</Property>
+    </Property>
+    <Property>
+      <Property Name="DisplayName">Default Domain Controllers Policy</Property>
+      <Property Name="GUID">{6AC1786C-016F-11D2-945F-00C04fB984F9}</Property>
+      <Property Name="whenCreated">8/10/2020 8:36:40 PM</Property>
+      <Property Name="whenChanged">8/10/2020 8:36:40 PM</Property>
+      <Property Name="DistinguishedName">CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=LAB,DC=local</Property>
+      <Property Name="FilePath">\\LAB.local\sysvol\LAB.local\Policies\{6AC1786C-016F-11D2-945F-00C04fB984F9}</Property>
+    </Property>
+    <Property>
+      <Property Name="DisplayName">test GPO</Property>
+      <Property Name="GUID">{21D1FFB3-2305-4FC7-BE15-4C9D4D22565D}</Property>
+      <Property Name="whenCreated">8/27/2020 3:27:54 PM</Property>
+      <Property Name="whenChanged">8/27/2020 3:40:17 PM</Property>
+      <Property Name="DistinguishedName">CN={21D1FFB3-2305-4FC7-BE15-4C9D4D22565D},CN=Policies,CN=System,DC=LAB,DC=local</Property>
+      <Property Name="FilePath">\\LAB.local\SysVol\LAB.local\Policies\{21D1FFB3-2305-4FC7-BE15-4C9D4D22565D}</Property>
+    </Property>
+  </Object>
+</Objects>

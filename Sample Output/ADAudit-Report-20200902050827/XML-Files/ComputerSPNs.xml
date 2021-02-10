@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property>
+      <Property Name="UserName">TSTWWEBS1000000$</Property>
+      <Property Name="Name">TSTWWEBS1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">TSTWWEBS1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">ESMWCTRX1000001$</Property>
+      <Property Name="Name">ESMWCTRX1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">ESMWCTRX1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">AZRWLPT1000000$</Property>
+      <Property Name="Name">AZRWLPT1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">AZRWLPT1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">AZRWLPT1000001$</Property>
+      <Property Name="Name">AZRWLPT1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">AZRWLPT1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">GOOWCTRX1000001$</Property>
+      <Property Name="Name">GOOWCTRX1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">GOOWCTRX1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">ldap</Property>
+      <Property Name="Host">DC1.LAB.local,DC1,d7a65ede-8430-4b5c-a5e1-199b5ea4c9f4._msdcs.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_alert_mgmt_and_sync</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_alert_agent</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_MediaStreaming_IMediaStreaming</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_ClientNotificationProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_ClientRegistrationService</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_HealthReport_Provider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_RemoteConnectionManager_RemoteConnectionManagementProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_DomainProviderManager</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_RemoteDesktop_IRDAccessManager</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_Web_Admin_IRemoteAccessSiteInfo</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_MachineManagementProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_MachineIdentityProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_user_info</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_user_changepassword</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_user_logon</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_GroupManagementProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_UserManagementProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_NetworkingProvider(INetworkingService)</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_AddinInfrastructure_AddInMetadataProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_Settings</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_DevicesProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_server_restore</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_server_backup</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_pc_backup_register</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_pc_backup_bmr_media_generation</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_wssg_pc_backup_server</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_DataProtection_FileBackup_UserConfigProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_DataProtection_FileBackup_ServerConfigProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_Storage</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_SqmProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_ProviderFramework_LocalNotificationProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">Microsoft_WindowsServerSolutions_ProviderFramework_ServerNotificationProvider</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">TERMSRV</Property>
+      <Property Name="Host">DC1,DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">DNS</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">GC</Property>
+      <Property Name="Host">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">RestrictedKrbHost</Property>
+      <Property Name="Host">DC1.LAB.local,DC1</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">RPC</Property>
+      <Property Name="Host">d7a65ede-8430-4b5c-a5e1-199b5ea4c9f4._msdcs.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">DC1,DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">DC1$</Property>
+      <Property Name="Name">DC1</Property>
+      <Property Name="Service">E3514235-4B06-11D1-AB04-00C04FC2DCD2</Property>
+      <Property Name="Host">d7a65ede-8430-4b5c-a5e1-199b5ea4c9f4</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">WIN10$</Property>
+      <Property Name="Name">WIN10</Property>
+      <Property Name="Service">WSMAN</Property>
+      <Property Name="Host">win10,win10.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">WIN10$</Property>
+      <Property Name="Name">WIN10</Property>
+      <Property Name="Service">RestrictedKrbHost</Property>
+      <Property Name="Host">WIN10,win10.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">WIN10$</Property>
+      <Property Name="Name">WIN10</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">WIN10,win10.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">FSRWAPPS1000000$</Property>
+      <Property Name="Name">FSRWAPPS1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">FSRWAPPS1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">BDEWLPT1000001$</Property>
+      <Property Name="Name">BDEWLPT1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">BDEWLPT1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">HREWVIR1000001$</Property>
+      <Property Name="Name">HREWVIR1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">HREWVIR1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">TSTWLPT1000000$</Property>
+      <Property Name="Name">TSTWLPT1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">TSTWLPT1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">ITSWDBAS1000000$</Property>
+      <Property Name="Name">ITSWDBAS1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">ITSWDBAS1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">AWSWVIR1000000$</Property>
+      <Property Name="Name">AWSWVIR1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">AWSWVIR1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">FINWAPPS1000002$</Property>
+      <Property Name="Name">FINWAPPS1000002</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">FINWAPPS1000002</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">AZRWWKS1000000$</Property>
+      <Property Name="Name">AZRWWKS1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">AZRWWKS1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">FSRWWEBS1000000$</Property>
+      <Property Name="Name">FSRWWEBS1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">FSRWWEBS1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">FINWLPT1000001$</Property>
+      <Property Name="Name">FINWLPT1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">FINWLPT1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">BDEWCTRX1000000$</Property>
+      <Property Name="Name">BDEWCTRX1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">BDEWCTRX1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">OGCWVIR1000000$</Property>
+      <Property Name="Name">OGCWVIR1000000</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">OGCWVIR1000000</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">ITSWVIR1000004$</Property>
+      <Property Name="Name">ITSWVIR1000004</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">ITSWVIR1000004</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">AZRWSECS1000002$</Property>
+      <Property Name="Name">AZRWSECS1000002</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">AZRWSECS1000002</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">ESMWVIR1000001$</Property>
+      <Property Name="Name">ESMWVIR1000001</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">ESMWVIR1000001</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">IEWIN7$</Property>
+      <Property Name="Name">IEWIN7</Property>
+      <Property Name="Service">RestrictedKrbHost</Property>
+      <Property Name="Host">IEWIN7,IEWIN7.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="UserName">IEWIN7$</Property>
+      <Property Name="Name">IEWIN7</Property>
+      <Property Name="Service">HOST</Property>
+      <Property Name="Host">IEWIN7,IEWIN7.LAB.local</Property>
+    </Property>
+  </Object>
+</Objects>

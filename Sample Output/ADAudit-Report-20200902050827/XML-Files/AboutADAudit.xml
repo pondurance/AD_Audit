@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property>
+      <Property Name="Category">Date</Property>
+      <Property Name="Value">9/2/2020 5:08:27 AM</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Auditor</Property>
+      <Property Name="Value">Pondurance Core Team</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">ADWS Version</Property>
+      <Property Name="Value">v1.24</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Ran as user</Property>
+      <Property Name="Value">lab\admin1</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Ran on computer</Property>
+      <Property Name="Value">WORKGROUP\LAPTOP-FQ73LS8O - Standalone Workstation</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Execution Time (mins)</Property>
+      <Property Name="Value">0.48</Property>
+    </Property>
+  </Object>
+</Objects>
