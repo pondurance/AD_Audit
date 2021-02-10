@@ -1,0 +1,2 @@
+"Username","Name","Enabled","Service","Host","Password Last Set","Description","Primary GroupID","Memberof"
+"krbtgt","krbtgt","False","kadmin","changepw","8/10/2020 8:37:15 PM","Key Distribution Center Service Account","513","MI-ber-distlist,MA-cabecital-distlist,DA-920-admingroup,NI-602-distlist,21-dulcesito-admingroup,SA-670587865-distlist,DE-gia-distlist,46-EX3-distlist,BA-carolina6-distlist,18-gus-distlist,WseAllowHomePageLinks,Denied RODC Password Replication Group"

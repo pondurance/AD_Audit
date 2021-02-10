@@ -1,0 +1,6 @@
+"Name","RecordCount","USNCreated","USNChanged","whenCreated","whenChanged","DistinguishedName"
+"RootDNSServers","14","12500","12502","8/10/2020 8:37:55 PM","8/10/2020 8:37:55 PM","DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=LAB,DC=local"
+"LAB.local","20","12970","13013","8/10/2020 8:46:03 PM","8/10/2020 8:46:03 PM","DC=LAB.local,CN=MicrosoftDNS,DC=DomainDnsZones,DC=LAB,DC=local"
+"RootDNSServers","14","13014","16393","8/10/2020 8:46:03 PM","8/10/2020 8:57:42 PM","DC=RootDNSServers,CN=MicrosoftDNS,DC=DomainDnsZones,DC=LAB,DC=local"
+"_msdcs.LAB.local","11","12931","12965","8/10/2020 8:46:03 PM","8/10/2020 8:46:03 PM","DC=_msdcs.LAB.local,CN=MicrosoftDNS,DC=ForestDnsZones,DC=LAB,DC=local"
+"..TrustAnchors","1","13069","13075","8/10/2020 8:49:47 PM","8/10/2020 8:49:47 PM","DC=..TrustAnchors,CN=MicrosoftDNS,DC=ForestDnsZones,DC=LAB,DC=local"

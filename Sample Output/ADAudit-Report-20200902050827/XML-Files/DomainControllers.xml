@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property Name="Domain">LAB.local</Property>
+    <Property Name="Site">Default-First-Site-Name</Property>
+    <Property Name="Name">DC1</Property>
+    <Property Name="IPv4Address" />
+    <Property Name="Operating System">Windows Server 2016 Essentials 10.0 (14393)</Property>
+    <Property Name="Hostname">DC1.LAB.local</Property>
+    <Property Name="Infra">True</Property>
+    <Property Name="Naming">True</Property>
+    <Property Name="Schema">True</Property>
+    <Property Name="RID">True</Property>
+    <Property Name="PDC">True</Property>
+    <Property Name="SMB Port Open">False</Property>
+    <Property Name="SMB1(NT LM 0.12)" />
+    <Property Name="SMB2(0x0202)" />
+    <Property Name="SMB2(0x0210)" />
+    <Property Name="SMB3(0x0300)" />
+    <Property Name="SMB3(0x0302)" />
+    <Property Name="SMB3(0x0311)" />
+    <Property Name="SMB Signing" />
+  </Object>
+</Objects>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object>
+    <Property>
+      <Property Name="Category">Name</Property>
+      <Property Name="Value">LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">NetBIOS</Property>
+      <Property Name="Value">LAB</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Functional Level</Property>
+      <Property Name="Value">Windows2016Domain</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">DomainSID</Property>
+      <Property Name="Value">S-1-5-21-3291825774-2351178969-2332353497</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Domain Controller</Property>
+      <Property Name="Value">DC1.LAB.local</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">Creation Date</Property>
+      <Property Name="Value">8/10/2020 8:36:34 PM</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">ms-DS-MachineAccountQuota</Property>
+      <Property Name="Value">10</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">RIDs Issued</Property>
+      <Property Name="Value">4602</Property>
+    </Property>
+    <Property>
+      <Property Name="Category">RIDs Remaining</Property>
+      <Property Name="Value">1073737221</Property>
+    </Property>
+  </Object>
+</Objects>
